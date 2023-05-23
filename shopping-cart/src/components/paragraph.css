@@ -1,0 +1,30 @@
+.paragraph {
+        background-image: url('./ps-image.jpg');
+        background-size: cover;
+        background-position: center;
+        height: 100vh;
+      }
+   
+      .navbar {
+        /* Styles specific to the Navbar component in the HomePage */
+        /* For example: */
+        background-color: #f1f1f1;
+        padding: 10px;
+      }
+  
+  
+  
+  
+  .paragraph-text {
+    font-size: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+    color: white;
+    text-align: center;
+    
+  }
+
+  .button {
+    margin-left: 49%;
+    margin-top: 70vh;
+  }
